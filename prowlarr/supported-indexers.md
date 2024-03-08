@@ -2,15 +2,15 @@
 title: Prowlarr Supported Indexers
 description: Indexers currently named as supported in the current nightly build of Prowlarr. Other indexers may be available via either Generic Newznab or Generic Torznab.
 published: true
-date: 2024-03-06T05:08:20.911258
+date: 2024-03-08T00:55:40.135915
 tags: prowlarr, indexers
 editor: markdown
-dateCreated: 2024-03-06T05:08:20.911258
+dateCreated: 2024-03-08T00:55:40.135915
 ---
 
 - Supported Trackers and Indexers as of
   - Prowlarr Build `1.14.2.4318` / [Commit: 882152b9117aadd621d1b248a36a233e5abc0527](https://github.com/Prowlarr/Prowlarr/commit/882152b9117aadd621d1b248a36a233e5abc0527)
-  - [Prowlarr Indexers Commit: 9f47fc213a696cfe7ad493e3a35d2d0e4ffcdab0](https://github.com/Prowlarr/Indexers/commit/9f47fc213a696cfe7ad493e3a35d2d0e4ffcdab0)
+  - [Prowlarr Indexers Commit: 17248b07be53bbb75b784b21de5dac227c668f8c](https://github.com/Prowlarr/Indexers/commit/17248b07be53bbb75b784b21de5dac227c668f8c)
 
 ---
 
@@ -116,7 +116,7 @@ dateCreated: 2024-03-06T05:08:20.911258
 |[TorrentKitty](https://www.torrentkitty.tv/){#torrentkitty}|TorrentKitty is a Public torrent indexer|English (United States)|
 |[Torrent Oyun indir](https://0.torrentoyunindir.com/){#torrentoyunindir}|Torrent Oyun indir is a TURKISH Public torrent site for GAMES|Turkish (Turkey)|
 |[TorrentProject2](https://torrentproject2.net/){#torrentproject2}|TorrentProject2 is a Public torrent meta-search engine|English (United States)|
-|[TorrentQQ](https://torrentqq298.com/){#torrentqq}|TorrentQQ (토렌트큐큐) is a Public KOREAN tracker for Korean media|Korean (Korea)|
+|[TorrentQQ](https://torrentqq299.com/){#torrentqq}|TorrentQQ (토렌트큐큐) is a Public KOREAN tracker for Korean media|Korean (Korea)|
 |[TorrentSir](https://torrentsir135.com/){#torrentsir}|TorrentSir (토렌트썰) is a Public KOREAN tracker for Korean media|Korean (Korea)|
 |[TorrentView](https://viewtorrent18.com/){#torrentview}|Torrent View  (토렌트뷰) is a Public KOREAN tracker for Korean media|Korean (Korea)|
 |[TorrentWhiz](https://torrentwiz66.com/){#torrentwhiz}|TorrentWhiz ( 토렌트위즈) is a Public KOREAN tracker for Korean media|Korean (Korea)|
@@ -480,6 +480,7 @@ dateCreated: 2024-03-06T05:08:20.911258
 |[The-New-Fun](https://the-new-fun.com/){#thenewfun}|The-New-Fun is a GERMAN Private Torrent Tracker for MOVIES / TV / GENERAL|German (Germany)|
 |[The Occult](https://theoccult.click/){#theoccult}|Cult E-Learning|English (United States)|
 |[The Old School (API)](https://theoldschool.cc/){#theoldschool-api}|The Old School is a FRENCH Private Torrent Tracker for MOVIES / TV / GENERAL|French (France)|
+|[The Paradiese](https://theparadiese.org/){#theparadiese}|The Paradiese is a GERMAN Private tracker for MOVIES / TV / GENERAL|German (Germany)|
 |[The Place](https://theplace.click/){#theplace}|Self-improvement E-Learning|English (United States)|
 |[TheScenePlace](https://www.thesceneplace.com/){#thesceneplace}|TheScenePlace (TSP) is a Private site for TV / MOVIES / GENERAL|English (United States)|
 |[The Shinning (API)](https://theshinning.me/){#theshinning-api}|The Shinning (TsH) is a GERMAN Private Torrent Tracker for MOVIES / TV / GENERAL|German (Germany)|
@@ -567,7 +568,7 @@ dateCreated: 2024-03-06T05:08:20.911258
 |[Ntelogo (API)](https://ntelogo.org/){#ntelogo}|Ntelogo is a GREEK Private Torrent Tracker for MOVIES / TV / GENERAL|Greek (Greece)|
 |[OKPT](https://www.okpt.net/){#okpt}|OKPT is a CHINESE Private site for MOVIES / TV / MUSIC / GENERAL|Chinese (China)|
 |[Old Greek Tracker](http://oldgreektracker.xyz/){#oldgreektracker}|Old Greek Tracker is a GREEK Private Torrent Tracker for PRE-2020 MOVIES / TV / GENERAL|Greek (Greece)|
-|[Oldtoons](https://oldtoons.world/){#oldtoonsworld}|Oldtoons is a Private Torrent Tracker for Cartoon MOVIES / TV|English (United States)|
+|[Oldtoons](https://oldtoons.world/){#oldtoonsworld}|Oldtoons is a Private Torrent Tracker for Cartoon MOVIES / TV / GENERAL|English (United States)|
 |[OnlyEncodes (API)](https://onlyencodes.cc/){#onlyencodes-api}|OnlyEncodes is a Private Tracker for MOVIES / TV|English (United States)|
 |[Ostwiki](https://www.ostwiki.com/){#ostwiki}|Ostwiki is a Private Torrent Tracker for Soundtracks releases|English (United States)|
 |[Panda](https://pandapt.net/){#panda}|Panda is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL|Chinese (China)|
